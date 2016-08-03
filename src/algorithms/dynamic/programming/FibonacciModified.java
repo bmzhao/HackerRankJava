@@ -1,4 +1,4 @@
-package dynamic.programming;
+package algorithms.dynamic.programming;
 
 import java.math.BigInteger;
 import java.util.HashMap;

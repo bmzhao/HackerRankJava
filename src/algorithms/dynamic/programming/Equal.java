@@ -1,4 +1,4 @@
-package dynamic.programming;
+package algorithms.dynamic.programming;
 
 //https://www.hackerrank.com/challenges/equal
 
